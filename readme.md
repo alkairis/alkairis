@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Deepak Singh Rajput!
+## Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Deepak Singh Rajput!
 
 * Primary Programming language is Python
 * Secondary Pragramming language : JavaScript
