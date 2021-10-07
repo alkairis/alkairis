@@ -42,4 +42,5 @@ Top Languages| Github Stats
  <!--![Visitor Count](https://profile-counter.glitch.me/{alkairis}/count.svg)-->
 ![](https://komarev.com/ghpvc/?username=alkairis&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 
----
+-----
+Credits: [Deepak Singh Rajput](https://www.linkedin.com/in/alkairis/)
