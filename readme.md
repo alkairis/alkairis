@@ -1,7 +1,7 @@
 ## Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Deepak Singh Rajput!
 
-- Primary Programming language is Python
-- Secondary Pragramming language : JavaScript
+- Primary Programming language : JavaScript.
+- Secondary Pragramming language : Python.
 - Pationate for learning and developing new things.
 - I write [Tech Blogs](https://alkairis.medium.com).
 
