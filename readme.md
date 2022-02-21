@@ -44,7 +44,7 @@
 
 ## </div>
 
-### 📘 Latest Blog Articles
+<!-- ### 📘 Latest Blog Articles
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=alkairis&type=horizontal&limit=7)](https://medium.com/@alkairis)
 
@@ -56,7 +56,7 @@
 - [Some unknown facts about Artificial Intelligence](https://alkairis.medium.com/some-unknown-facts-about-artificial-intelligence-ccbdf8310b29?source=rss-86126611a1ba------2)
 - [Which is better React Native or Flutter](https://alkairis.medium.com/which-is-better-react-native-or-flutter-2e93507138a5?source=rss-86126611a1ba------2)
 <!-- BLOG-POST-LIST:END -->
-
+ -->
 ---
 
 ### &#x1f4c8; My GitHub Stats
