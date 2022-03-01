@@ -63,7 +63,7 @@
 
 <br/>
 <p align="center">
- <img src="https://pri-repo-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&langs_count=10&theme=nightowl" />
+ <img width="400px" src="https://pri-repo-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&langs_count=10&theme=nightowl" />
 </p>
 
 <p align="center">
