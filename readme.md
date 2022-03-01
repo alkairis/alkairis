@@ -63,12 +63,12 @@
 
 <br/>
 <p align="center">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&hide_border=true&theme=nightowl" />
+ <img height="137px" src="https://pri-repo-stats.vercel.app/api/top-langs/?username=alkairis&hide_title=true&hide_border=true&langs_count=10&theme=nightowl" />
 </p>
 
 <p align="center">
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&hide_border=true&theme=nightowl" />
   <img height="137px" src="https://pri-repo-stats.vercel.app/api/?username=alkairis&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-  <img height="137px" src="https://pri-repo-stats.vercel.app/api/top-langs/?username=alkairis&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=nightowl" />
 </p>
 
 <div align = "center">
