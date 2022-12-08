@@ -55,11 +55,8 @@ Having previous knowledge of technologies like React, NodeJS, Angular,Spring Boo
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=alkairis&type=horizontal&limit=7)](https://medium.com/@alkairis)
 
-
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-
-
 
 <h2>&#x1f4c8; My GitHub Stats</h2>
 
