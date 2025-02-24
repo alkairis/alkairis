@@ -1,10 +1,11 @@
-# **Deepak Singh Rajput** ✨  
+<img align="center" width="100%" src="./Assets/mario.gif"/>
+
+# **Deepak Singh Rajput** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZkYjBiNGY3NTIyMjMwMWQ0NDE2MjI3NjZiMTY5ODY1ZTBiZWQ2YiZjdD1z/UcnuAhePByFzYldDLo/giphy.gif" width="40px" />  
 ### **AI/ML Developer | Python Enthusiast | Full-stack Developer**
 
-<img align="center" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> I'm **Deepak Singh Rajput**, an AI/ML developer passionate about **building intelligent applications** and optimizing **data-driven solutions**. With expertise in **Python, AI, and cloud computing**, I specialize in **generative AI, SQL query engines, and ML-powered applications**.
 
-Hi there! 👋 I'm **Deepak Singh Rajput**, an AI/ML developer passionate about **building intelligent applications** and optimizing **data-driven solutions**. With expertise in **Python, AI, and cloud computing**, I specialize in **generative AI, SQL query engines, and ML-powered applications**.
-
+<img align="right" alt="Coding" width="400" src="./Assets/98764-custom-developer-animation-02.gif">
 ---
 
 ## 🚀 **About Me**  
