@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="./Assets/mario.gif"/>
 
 # **Deepak Singh Rajput** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZkYjBiNGY3NTIyMjMwMWQ0NDE2MjI3NjZiMTY5ODY1ZTBiZWQ2YiZjdD1z/UcnuAhePByFzYldDLo/giphy.gif" width="40px" />  
-### **AI/ML Developer | Python Enthusiast | Full-stack Developer**
+### **AI/ML Developer | Python Enthusiast | Full-stack Developer | Blogger**
 
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> I'm **Deepak Singh Rajput**, an AI/ML developer passionate about **building intelligent applications** and optimizing **data-driven solutions**. With expertise in **Python, AI, and cloud computing**, I specialize in **generative AI, SQL query engines, and ML-powered applications**.
 
@@ -14,6 +14,7 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 🔹 **Frontend & UI**: ReactJS, Streamlit  
 🔹 **Cloud & DevOps**: Google Cloud Platform (GCP), Terraform, Cloud Run  
 🔹 **Databases & Storage**: SQL, NoSQL, JSON-based query engines  
+🔹 **Blogger**: I write about AI, ML, and software development on **[Medium](https://medium.com/@alkairis)**  
 
 Currently, I’m working on a **generative AI application** tailored for different purposes, leveraging **Llama Index and Hugging Face models**.  
 
@@ -33,6 +34,10 @@ Currently, I’m working on a **generative AI application** tailored for differe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
 </div>
 
+---
+
+## 📝 **Latest Blogs**  
+I love writing about AI, ML, and software development. Check out my latest blogs on **[Medium](https://medium.com/@alkairis)**:  
 ---
 
 ## 🌱 **Currently Exploring**  
