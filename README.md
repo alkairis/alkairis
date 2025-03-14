@@ -15,7 +15,7 @@ Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 🔹 **Cloud & DevOps**: Google Cloud Platform (GCP), Terraform, Cloud Run  
 🔹 **Databases & Storage**: SQL, NoSQL, JSON-based query engines  
 
-Currently, I’m working on a **generative AI application** tailored for **chartered accountants**, leveraging **Llama Index and Hugging Face models** to simplify SQL queries and data analysis.  
+Currently, I’m working on a **generative AI application** tailored for different purposes, leveraging **Llama Index and Hugging Face models**.  
 
 ---
 
