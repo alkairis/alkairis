@@ -6,7 +6,7 @@
 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> I'm **Deepak Singh Rajput**, an AI/ML developer passionate about **building intelligent applications** and optimizing **data-driven solutions**. With expertise in **Python, AI, and cloud computing**, I specialize in **generative AI, SQL query engines, and ML-powered applications**.
 
 <img align="right" alt="Coding" width="400" src="./Assets/98764-custom-developer-animation-02.gif">
----
+
 
 ## 🚀 **About Me**  
 🔹 **AI & ML Development**: LLMs, NLP, Hugging Face, Llama Index, Ollama, GEMMA  
