@@ -59,4 +59,4 @@ I love writing about AI, ML, and software development. Check out my latest blogs
 ## 📊 **GitHub Stats**  
 
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&theme=react&hide_border=true"/>  
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&theme=react&hide_border=true"/>  
+[<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&theme=react&hide_border=true"/> ](https://github-readme-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&theme=react&hide_border=true) 
