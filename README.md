@@ -1,67 +1,95 @@
-<img align="center" width="100%" src="./Assets/mario.gif"/>
+<img align="center" width="100%" src="./Assets/mario.gif" alt="Mario Banner"/>
 
-# **Deepak Singh Rajput** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZkYjBiNGY3NTIyMjMwMWQ0NDE2MjI3NjZiMTY5ODY1ZTBiZWQ2YiZjdD1z/UcnuAhePByFzYldDLo/giphy.gif" width="40px" />  
-### **AI/ML Developer | Python Enthusiast | Full-stack Developer | Blogger**
-
-Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> I'm **Deepak Singh Rajput**, an AI/ML developer passionate about **building intelligent applications** and optimizing **data-driven solutions**. With expertise in **Python, AI, and cloud computing**, I specialize in **generative AI, SQL query engines, and ML-powered applications**.
-
-<img align="right" alt="Coding" width="400" src="./Assets/98764-custom-developer-animation-02.gif">
-
-
-## 🚀 **About Me**  
-🔹 **AI & ML Development**: LLMs, NLP, Hugging Face, Llama Index, Ollama, GEMMA  
-🔹 **Backend Engineering**: Python, FastAPI, Java (Spring Boot), Node.js  
-🔹 **Frontend & UI**: ReactJS, Streamlit  
-🔹 **Cloud & DevOps**: Google Cloud Platform (GCP), Terraform, Cloud Run  
-🔹 **Databases & Storage**: SQL, NoSQL, JSON-based query engines  
-🔹 **Blogger**: I write about AI, ML, and software development on **[Medium](https://medium.com/@alkairis)**  
-
-Currently, I’m working on a **generative AI application** tailored for different purposes, leveraging **Llama Index and Hugging Face models**.  
+<h1 align="center">Hi, I'm Deepak Singh Rajput <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+<h3 align="center">AI/ML Developer · Python Enthusiast · Full-stack Engineer · Technical Blogger</h3>
 
 ---
 
-## 🔧 **Tech Stack & Tools**  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
-</div>
+## 🚀 About Me
+
+Hello! I'm **Deepak Singh Rajput**, a passionate AI/ML developer driven by the challenge of building intelligent, scalable systems. My core strengths include:
+
+- 🤖 **Generative AI, NLP, and LLM Integration** using **Hugging Face, Llama Index, Ollama, GEMMA**
+- 🧠 Building intelligent backends with **Python (FastAPI)** and **Java (Spring Boot)**
+- 🌐 Crafting rich user interfaces with **ReactJS** and **Streamlit**
+- ☁️ Automating deployments and infrastructure with **GCP + Terraform**
+
+> 🎯 Currently working on: **A GenAI app that understands GitHub repositories and answers developer questions contextually.**
 
 ---
 
-## 📝 **Latest Blogs**  
-I love writing about AI, ML, and software development. Check out my latest blogs on **[Medium](https://medium.com/@alkairis)**:  
+<img align="right" alt="Developer Animation" width="400" src="./Assets/98764-custom-developer-animation-02.gif" />
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
+</p>
+
 ---
 
-## 🌱 **Currently Exploring**  
-📌 **LLM-powered AI applications** with Python and Streamlit  
-📌 **Optimizing Terraform for seamless GCP deployments**  
-📌 **Advanced SQL query optimization using AI**  
+## ✍️ Latest Blogs on [Medium](https://medium.com/@alkairis)
+
+> I enjoy writing about AI, ML, and full-stack development. Here are a few popular ones:
+
+- 🧪 [Streamlining DB Migrations with Alembic + FastAPI](https://medium.com/@alkairis)
+- ⚡ [Simplifying API Integration in React using Axios](https://medium.com/@alkairis)
+- 🧰 [Why UV is Replacing Poetry for Python Project Management](https://medium.com/@alkairis)
+
+> ✨ Stay tuned for deep dives on LLM architectures, AI-powered DevOps, and GCP automation.
 
 ---
 
-## 📬 **Get in Touch**  
-💌 **Email**: [deepaksinghrajput0711@gmail.com](mailto:deepaksinghrajput0711@gmail.com)  
-💼 **LinkedIn**: [Deepak Singh Rajput](https://www.linkedin.com/in/alkairis/)  
-🐦 **Twitter**: [@alkairis_](https://twitter.com/alkairis_)  
-📷 **Instagram**: [@alkairis_](https://www.instagram.com/alkairis_/)  
-🎨 **Portfolio**: Coming soon! 🚀  
+## 🔍 Currently Exploring
+
+- 🧠 **LLM-powered assistant apps** using LangChain, Hugging Face, and Ollama
+- 🔧 **Terraform for production-grade GCP infrastructure**
+- 📊 **AI-assisted SQL optimization for query engines**
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📬 Connect With Me
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&theme=react&hide_border=true"/>  
-[<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&theme=react&hide_border=true"/> ](https://github-readme-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&theme=react&hide_border=true) 
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [Deepak Singh Rajput](https://www.linkedin.com/in/alkairis/) |
+| 🐦 Twitter | [@alkairis_](https://twitter.com/alkairis_) |
+| 📸 Instagram | [@alkairis_](https://www.instagram.com/alkairis_/) |
+| 📧 Email | [deepaksinghrajput0711@gmail.com](mailto:deepaksinghrajput0711@gmail.com) |
+| 📓 Medium | [@alkairis](https://medium.com/@alkairis) |
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=alkairis&theme=react&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkairis&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
